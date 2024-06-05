@@ -24,5 +24,3 @@ In `game.py`, I implemented a number guessing game. The program prompts the user
 ### 6. Bitcoin Price Calculator
 
 In `bitcoin.py`, I implemented a program that calculates the cost of buying a certain amount of Bitcoins. The program expects the user to specify the number of Bitcoins they want to buy as a command-line argument. Then, it queries the CoinDesk API to fetch the current price of Bitcoin and calculates the total cost.
-
-These projects offered a diverse range of challenges and helped me deepen my Python skills.
